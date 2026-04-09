@@ -56,12 +56,13 @@ This portfolio highlights my practical labs and projects.
 ## Screenshot
 ### AWS Project 
 ![AWS Project](portfolio-website/assets/images/aws/aws-project1.png)
-
+![AWS Project](portfolio-website/assets/images/aws/aws-project2.png)
+![AWS Project](portfolio-website/assets/images/aws/aws-project3.png)
 ### Network Lab
-![Network Lab]("F:\portfolio-website\assets\images\network\network-project1.png")
-![Network Lab]("F:\portfolio-website\assets\images\network\network-project1.png")
-![Network Lab]("F:\portfolio-website\assets\images\network\network-project1.png")
-![Network Lab]("F:\portfolio-website\assets\images\network\network-project1.png")
+![Network Lab](portfolio-website/assets/images/network/network-project1.png)
+![Network Lab](portfolio-website/assets/images/network/network-project2.jpg)
+![Network Lab](portfolio-website/assets/images/network/network-project3.jpg)
+![Network Lab](portfolio-website/assets/images/network/network-project4.jpg)
 ---
 
 ## ▶️ How to Run
