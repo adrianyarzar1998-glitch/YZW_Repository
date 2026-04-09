@@ -55,7 +55,7 @@ This portfolio highlights my practical labs and projects.
 
 ## Screenshot
 ### AWS Project 
-![AWS Project](assets/images/aws-project.jpg)
+![AWS Project](portfolio-website/assets/images/aws/aws-project1.png)
 
 ### Network Lab
 ![Network Lab]("F:\portfolio-website\assets\images\network\network-project1.png")
