@@ -1,0 +1,60 @@
+# 🌐 Cloud Engineer Portfolio
+
+This is my personal portfolio website showcasing my skills, projects, and experience as a **Junior Cloud Engineer**.
+
+---
+
+## 🚀 About Me
+
+I am an aspiring Cloud Engineer with hands-on experience in:
+
+- AWS (EC2, S3, VPC)
+- Linux Administration
+- Networking (CCNA concepts)
+- Docker & basic DevOps tools
+
+This portfolio highlights my practical labs and projects.
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
+---
+
+## 📂 Project Features
+
+- Responsive modern design
+- Typing animation (JavaScript)
+- Projects section with AWS & Networking labs
+- Skills section with clean UI
+- Contact section
+
+---
+
+## ☁️ Projects Included
+
+### 🔹 AWS Project
+- Created EC2 instances
+- Configured VPC and networking
+- Managed cloud resources
+
+### 🔹 Network Lab
+- VLAN configuration
+- Routing and switching
+- Network topology design
+
+### 🔹 Other Projects
+- Docker container setup
+- Linux server configuration
+
+---
+
+## ▶️ How to Run
+
+1. Download or clone the repository:
+```bash
+git clone https://github.com/adrianyarzar1998-glitch/YZW_Repository.git
